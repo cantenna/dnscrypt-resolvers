@@ -23,16 +23,6 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
-## a-and-a
-
-Non-logging DoH server in the UK operated by Andrews & Arnold Ltd, a
-company providing Internet connectivity and VoIP in the UK.
-
-https://www.aa.net.uk/legal/dohdot-disclaimer/
-
-sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjMgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
-
-
 ## aaflalo-me
 
 DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NL.
@@ -41,76 +31,6 @@ Non-logging, AD-filtering, supports DNSSEC.
 Hosted in Netherlands on a RamNode VPS.
 
 sdns://AgMAAAAAAAAADjE3Ni41Ni4yMzYuMTc1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DmRucy5hYWZsYWxvLm1lCi9kbnMtcXVlcnk
-
-
-## aaflalo-me-gcp
-
-Same as aaflalo-me-nyc. Use aaflalo-me-nyc.
-
-Kept for backward compatibility with people use this server.
-
-sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
-
-
-## aaflalo-me-nyc
-
-DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
-
-Non-logging, AD-filtering, supports DNSSEC.
-Hosted in New York on a RamNode Cloud Instance.
-
-sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
-
-
-## adfree.usableprivacy.net
-
-Public non-logging DoH server with advertising and tracker filtering.
-
-Hosted in Austria/Europe, details see: [docs.usableprivacy.com](https://docs.usableprivacy.com)
-
-sdns://AgMAAAAAAAAADzE0OS4xNTQuMTUzLjE1MyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBhhZGZyZWUudXNhYmxlcHJpdmFjeS5uZXQKL2Rucy1xdWVyeQ
-
-
-## adguard-dns
-
-Remove ads and protect your computer from malware
-
-sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMDo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuUso_OQhzIjIuZG5zY3J5cHQuZGVmYXVsdC5uczEuYWRndWFyZC5jb20
-
-
-## adguard-dns-doh
-
-Remove ads and protect your computer from malware (over DoH)
-
-sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMCD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7ZQ6Eg9kbnMuYWRndWFyZC5jb20KL2Rucy1xdWVyeQ
-
-
-## adguard-dns-family
-
-Adguard DNS with safesearch and adult content blocking
-
-sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMjo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWuMm1AFq6ITIuZG5zY3J5cHQuZmFtaWx5Lm5zMS5hZGd1YXJkLmNvbQ
-
-
-## adguard-dns-family-doh
-
-Adguard DNS with safesearch and adult content blocking (over DoH)
-
-sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMiD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7ZQ6EhZkbnMtZmFtaWx5LmFkZ3VhcmQuY29tCi9kbnMtcXVlcnk
-
-
-## adguard-dns-family-ipv6
-
-Adguard DNS with safesearch and adult content blocking
-
-sdns://AQMAAAAAAAAAGlsyYTAwOjVhNjA6OmJhZDI6MGZmXTo1NDQzIIwhF6nrwVfW-2QFbwrbwRxdg2c0c8RuJY2bL1fU7jUfITIuZG5zY3J5cHQuZmFtaWx5Lm5zMi5hZGd1YXJkLmNvbQ
-
-
-## adguard-dns-ipv6
-
-Remove ads and protect your computer from malware
-
-sdns://AQMAAAAAAAAAGVsyYTAwOjVhNjA6OmFkMjowZmZdOjU0NDMggdAC02pMpQxHO3R5ZQ_hLgKzIcthOFYqII5APf3FXpQiMi5kbnNjcnlwdC5kZWZhdWx0Lm5zMi5hZGd1YXJkLmNvbQ
 
 
 ## alidns-doh
@@ -150,31 +70,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAFDIwNi4xODkuMTQyLjE3OTo1MzUzII5GJ8c4g6hRAwghulrn5dBB9KrvlbeCkBbLZR2HwyjJGTIuZG5zY3J5cHQtY2VydC5hcnZpbmQuaW8
 
 
-## att
-
-AT&T test DoH server.
-
-sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMzLX5bHX8txvaG7xGRjZ8Tr7aidcxjxBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
-
-
-## brahma-world
-
-DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware.
-
-Hosted in Nuremberg, Germany. (https://dns.brahma.world)
-
-sdns://AgMAAAAAAAAADjk0LjEzMC4yMjQuMTE0ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
-
-
-## brahma-world-ipv6
-
-DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware.
-
-Hosted in Nuremberg, Germany. (https://dns.brahma.world)
-
-sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6OTI1NTo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgQZG5zLmJyYWhtYS53b3JsZAovZG5zLXF1ZXJ5
-
-
 ## captnemo-in
 
 Server running out of a Digital Ocean droplet in BLR1 region.
@@ -183,78 +78,6 @@ Maintained by Abhay Rana aka Nemo.
 If you are within India, this might be a nice DNS server to use.
 
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
-
-
-## charis
-
-Caching, non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled, Anonymized DNS by lucenera
-sdns://AQcAAAAAAAAAEzE5Mi4yNDEuMTU0LjEzNjo0NDMgiFQg4cYWLz6SB3hbrmd1gKwY-ewAWzFwFKGv6azCcmAdMi5kbnNjcnlwdC1jZXJ0Lml0LmNoYXJpcy5jb20
-
-
-## cisco
-
-Remove your DNS blind spot (DNSCrypt protocol)
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-Currently incompatible with DNS anonymization.
-
-sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
-
-
-## cisco-doh
-
-Remove your DNS blind spot (DoH protocol)
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiBUDrXp92r0ml9Aq9cu3mXf2w_ugmc61w74ZllxOxR-Vw9kb2gub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## cisco-familyshield
-
-Block websites not suitable for children (DNSCrypt protocol)
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-Currently incompatible with DNS anonymization.
-
-sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
-
-
-## cisco-familyshield-ipv6
-
-Block websites not suitable for children (IPv6)
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
-
-
-## cisco-ipv6
-
-Cisco OpenDNS over IPv6 (DNSCrypt protocol)
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-Currently incompatible with DNS anonymization.
-
-sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
-
-
-## cisco-ipv6-doh
-
-Cisco OpenDNS over IPv6 (DoH protocol)
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gVA616fdq9JpfQKvXLt5l39sP7oJnOtcO-GZZcTsUflcPZG9oLm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## cleanbrowsing-adult
